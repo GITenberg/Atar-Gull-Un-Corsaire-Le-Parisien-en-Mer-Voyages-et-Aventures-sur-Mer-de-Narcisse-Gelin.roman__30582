@@ -15,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1186
     wikipedia: http://en.wikipedia.org/wiki/Eugène_Sue
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/30582#Atar-Gull-Un-Corsaire-Le-Parisien-en-Mer-Voyages-et-Aventures-sur-Mer-de-Narcisse-Gelin.roman_
 gutenberg_bookshelf: FR Littérature
 gutenberg_issued: '2009-12-02'
 gutenberg_type: Text
